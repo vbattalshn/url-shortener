@@ -17,3 +17,7 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Important
+Enter your api url in /src/store/index.js
+Check out the php [api](https://github.com/vbattalshn/url-shortener-api)
